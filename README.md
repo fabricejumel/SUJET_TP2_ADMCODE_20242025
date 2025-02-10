@@ -58,4 +58,8 @@ Mettez ce test en oeuvre.
 > [!IMPORTANT]
 > on relira l'attendu précédent. Pour chaque Version, vous devrez : ...
 
+### Version 3 ( 8 points + des bonus)
+Proposé une version 3, proposant une grosse amélioration, cela peut concerné par exemple l'interface homme machine, un mode client/serveur permettant à des joueurs de s'affronter sur des machines différentes etc ... Faites preuves d'originalité mais respecter l'idée de bien faire à choses en partcilier au niveau des tests.
 
+> [!IMPORTANT]
+> on relira l'attendu défifini initiallement. Pour chaque Version, vous devrez : ...
