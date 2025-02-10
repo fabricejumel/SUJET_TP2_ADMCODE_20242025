@@ -30,15 +30,15 @@ Pour chaque Version, vous devrez :
 1. Faire apparaitre votre arbre de commit dans le README, en expliquant les choix faits sur les branches et les tags
 
 
-### Version 1 (8 points + bonus)
+### Version 1 (4 points + bonus)
 
 Le but est de cette version est de mettre en forme le code donné pour en créer un package (logique setup.py ou éventuellemnt pyproject.toml) en modifiant a minima le code donné (même si il vous semble incorrect ou peu pertinent). On mettra par contre en place toute la logique de test unitaires.
 > [!IMPORTANT]
 > on relira l'attendu précédent. Pour chaque Version, vous devrez : ...
 
-### Version 2 ( 12 points + des bonus)
+### Version 2 ( 8 points + des bonus)
 
-Le code proposé présente beaucoup d'améliorations possibles . En particulier on souhaite développer des stratégies de jeux par ordinateur. On proposera une version où un ou deux joueurs peuvent être l'ordinateur. On proposera au moins 2 stratégies que l'on peux chosir avec des arguments dans le code , une stragégie totalement aléatoire (avec tout de même des couts valides) et une stragégie ou l'ordinateur ne perd pas au coup suivant si ce n'était pas inéluctables. Vous pouvez ensuite si vous le souhaitez proposer d'autres améliorations . 
+Le code proposé présente beaucoup d'améliorations possibles . En particulier on souhaite développer des stratégies de jeux par ordinateur. On proposera une version où un ou deux joueurs peuvent être l'ordinateur. On proposera au moins 3 stratégies que l'on peux chosir avec des arguments dans le code , une stragégie totalement aléatoire (avec tout de même des couts valides) , une stragégie ou l'ordinateur ne perd pas au coup suivant si ce n'était pas inéluctables. Vous pouvez ensuite proposer une autre stratégie. 
 . Il est important que tous les changements se reperercutent sur les tests unitaires . N'hésitez pas à améliorer/enrichir au passage vos tests unitaires si il n'était pas suffisamment complet sur la version 1.
 
 On trouve dans la littérature mathématique que les chances de résultat si l'on applique une politique aléatoire au morpion (avec des coups valides) est :
