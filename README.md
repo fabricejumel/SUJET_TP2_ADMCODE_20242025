@@ -38,7 +38,7 @@ Le but est de cette version est de mettre en forme le code donné pour en créer
 
 ### Version 2 ( 8 points )
 
-Le code proposé présente beaucoup d'améliorations possibles . En particulier on souhaite développer des stratégies de jeux par ordinateur. On proposera une version où un ou deux joueurs peuvent être l'ordinateur. On proposera au moins 3 stratégies que l'on peux chosir avec des arguments dans le code , une stragégie totalement aléatoire (avec tout de même des couts valides) , une stragégie ou l'ordinateur ne perd pas au coup suivant si ce n'était pas inéluctables. Vous pouvez ensuite proposer une autre stratégie. 
+Le code proposé présente beaucoup d'améliorations possibles . En particulier on souhaite développer des stratégies de jeux par ordinateur. On proposera une version où un ou deux joueurs peuvent être l'ordinateur. On proposera au moins 3 stratégies que l'on peux choisir avec des arguments dans le code , une stragégie totalement aléatoire (avec tout de même des couts valides) , une stragégie ou l'ordinateur ne perd pas au coup suivant si ce n'était pas inéluctables. Vous pouvez ensuite proposer une autre stratégie. 
 . Il est important que tous les changements se reperercutent sur les tests unitaires . N'hésitez pas à améliorer/enrichir au passage vos tests unitaires si il n'était pas suffisamment complet sur la version 1.
 
 On trouve dans la littérature mathématique que les chances de résultat si l'on applique une politique aléatoire au morpion (avec des coups valides) est :
